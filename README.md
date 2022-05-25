@@ -12,6 +12,6 @@ This project is inspired by John Smilga's "Javascript Basic Projects":
 
 The background images are the astounding benefit of "Pexels": 
 
-Day - ```[Day Background](https://www.pexels.com/photo/white-cloud-in-the-sky-1586981/)```
+[Day Background](https://www.pexels.com/photo/white-cloud-in-the-sky-1586981/)
 
-Night - ```[Night Background](https://www.pexels.com/photo/white-cloud-in-the-sky-1586981/)```
+[Night Background](https://www.pexels.com/photo/skyline-photography-of-buildings-3052361/)
